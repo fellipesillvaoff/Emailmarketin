@@ -6,7 +6,7 @@ import os
 
 def enviar_email(nome, oferta,email_para,assunto):
     email_de = 'site@clubedoeletronico.com'  # Seu endereço de e-mail
-    senha = 'Mestrado2020/'  # Sua senha de e-mail
+    senha = 'xx/'  # Sua senha de e-mail
     #email_para = input('Digite o e-mail completo: ')  # E-mail do destinatário
     #assunto = f'Atualização pedido {nota}'  # Assunto do e-mail
 
